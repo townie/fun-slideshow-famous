@@ -50,8 +50,6 @@ define(function(require, exports, module) {
       this.mainNode.add(this.lightbox);
     }
 
-
-
     function _createSlides() {
       this.slides = [];
       this.currentIndex = 0;
